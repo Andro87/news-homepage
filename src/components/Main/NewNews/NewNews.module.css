@@ -25,4 +25,5 @@
 .new-news p {
     margin-top: 10px;
     margin-bottom: 0;
+    color: var(--grayish-blue);
 }
