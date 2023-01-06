@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](/images/screenshot.png)
+![Screenshot](./public/images/screenshot.png)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [URL](https://github.com/Andro87/news-homepage.git)
+-   Live Site URL: [Live site URL](https://news-homepage-orcin.vercel.app/)
 
 ## My process
 
